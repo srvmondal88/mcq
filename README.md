@@ -1,2 +1,0 @@
-# mcq
-MCQ project
