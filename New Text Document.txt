@@ -1,3 +1,0 @@
-token :  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
-
-url:   git remote set-url origin https://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@github.com/srvmondal88/mcq.git
